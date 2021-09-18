@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admin">
+    <Position X="0.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAAABBAAAA=</HashCode>
+      <FileName>Admin.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminGateway">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAAAAAAAAAAAAAAAAABAAAIAAAQABAAAAA=</HashCode>
+      <FileName>AdminGateway.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSAABAQAAAAEAAAAAAAAAAQACCEQAkAgAAAQECAEAAA=</HashCode>
+      <FileName>DataBase.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adress">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAiAAAAAAAAALAAAAAgAAgBAAAAABABAgCA=</HashCode>
+      <FileName>Adress.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACQIAAAAQAUAAABAAAAQEIQQAABAEBAAAAAAAIACA=</HashCode>
+      <FileName>Car.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAAYAAAAAAAAAAAAAAABAACA=</HashCode>
+      <FileName>Point.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Driver">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAwAAggAAAgAEAACAQBEhEABBAAAABEgAAA=</HashCode>
+      <FileName>Driver.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DriverGateway">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAAAAgAAAQAAAAAAAAAAAABAAAIAAQQAAAAAAA=</HashCode>
+      <FileName>DriverGateway.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAAAAAAAAAAAAwASgAAAARAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Order.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passenger">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQhAmAAABwAAAgAAQCAEggGBQEABEAAABAAABAgIAA=</HashCode>
+      <FileName>Passenger.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerGateway">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAiAAAAAAABABAIAAAQAAAAAAA=</HashCode>
+      <FileName>PassengerGateway.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABkAAAAAACAAAIAAAAARQAAAAQAAAAAAAAiAAAAUQA=</HashCode>
+      <FileName>Time.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>DiABAAABAgEQAAAIAAAcAAAggQAEAAAACAAUAgQBEIA=</HashCode>
+      <FileName>User.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CarType">
+    <Position X="14.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CarType.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="paymentMethods">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PaymentMethods.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DriverStatus">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAACAAAAIAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Driver.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="subsPlan">
+    <Position X="14.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAIAAIAAA=</HashCode>
+      <FileName>Passenger.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PassengerStatus">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

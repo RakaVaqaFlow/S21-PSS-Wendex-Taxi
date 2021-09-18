@@ -1,0 +1,13 @@
+10
+[
+Kazan Pushkin 5 10 10 
+Kazan Kalatushkin 7 13 15
+Kazan Bezymyanny 1 1 10
+Kazan Bezymyanny 2 2 10
+Kazan Arakchinskaya 1 36 74
+Kazan Arakchinskaya 2 35 74
+Kazan Vakhitov 1 30 41
+Kazan Vakhitov 2 30 42
+Kazan Gagarina 1 100 100
+Kazan Gagarina 2 100 101
+]
