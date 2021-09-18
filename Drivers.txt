@@ -1,0 +1,73 @@
+2
+[
+BlockIndex: 1
+Sergey
+Stilov
+pakmane
+2
+4484471
+12117
+5
+1
+5
+Orders:
+{
+2020 may 16 14:00
+2020 may 16 14:50
+duration: 3000
+Kazan Pushkin 5
+Kazan Kalatushkin 7
+350
+Card
+Comfort+
+}
+Cars: 1
+{
+TOYOTA_Camry
+Comfort+
+100 100
+black
+C444YE14
+authorization: 1
+}
+]
+[
+BlockIndex: 1
+Dadya
+Vasya
+anychikibriki
+2
+112455
+333
+5
+1
+5
+Orders:
+{
+2020 may 16 14:00
+2020 may 16 14:50
+duration: 3000
+Kazan Kalatushkin 7
+Kazan Pushkin 5
+150
+Card
+Economy
+}
+Cars: 2
+{
+Volkswagen_Polo
+Economy
+140 20
+yellow
+K777EK716
+authorization: 1
+}
+{
+BMW_M5F90
+Business
+0 0
+black
+A111AA777
+authorization: 0
+}
+]
